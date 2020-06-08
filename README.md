@@ -1,3 +1,3 @@
 # iphone-interactive-page
 
-<img src=".github/iphone-page.gif" />
+<img src=".github/iphone.gif" />
